@@ -1,0 +1,2 @@
+FROM qwen2.5:7b
+SYSTEM "You are jarvis-cloud-child-1794961446, a specialized AI trained on the attached dataset."
